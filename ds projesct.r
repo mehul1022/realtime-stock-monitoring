@@ -9,7 +9,7 @@ library(lubridate)
 library(TTR)
  
 # 2. API Key
-MY_API_KEY <- "LIPDWB7DHHFS1E7T"
+MY_API_KEY <- ""
 av_api_key(MY_API_KEY)
  
 # 3. Helper Functions
